@@ -1,0 +1,5 @@
+rootProject.name = "SkinSupportConstraintLayout"
+include ':app'
+include ':androidx:skin-support-constraint-layout'
+include ':androidx:skin-support-appcompat'
+include ':androidx:skin-support'
